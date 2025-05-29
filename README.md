@@ -66,11 +66,11 @@ Excel dosyasında aşağıdaki sütunlar olmalıdır:
 4️⃣ Otomatik Hesap Seçimi
 Domain bazlı gönderici hesapları:
 
-✉️ @seranit.com.tr → ik@seranit.com.tr
+✉️ @seranit.com.tr → seranit.com.tr
 
-✉️ @vanucci.com → insan.kaynaklari@vanucci.com
+✉️ @vanucci.com → anucci.com
 
-✉️ @mikrons.com.tr → insan.kaynaklari@mikrons.com.tr
+✉️ @mikrons.com.tr → mikrons.com.tr
 
 ⚠️ Desteklenmeyen domainlere e-posta gönderilmez.
 
